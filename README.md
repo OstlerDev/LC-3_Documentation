@@ -6,7 +6,7 @@ Hey! Sky here, I am the writer of this guide!
 
 First off, Don't Panic! 
 
-It can be really hard to learn with how professors teach sometimes, and textbooks can often be hard to decypher. I noticed that there was a severe lack of resources for understanding LC-3 and learning it online. I am hoping that this can help provide a really good resource while you are learning, and help explain things in a simpler way than you might be hearing
+It can be really hard to learn with how professors teach sometimes, and textbooks can often be hard to decypher. I noticed that there was a severe lack of resources for understanding LC-3 and learning it online. I am hoping that this can help provide a really good resource while you are learning, and help explain things in a simpler more understandable way.
 
 I hope that this documentation can help you. I felt like this guide is what I needed when I was first learning LC-3, since it was so confusing and such a steep learning curve.
 
