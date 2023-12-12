@@ -35,3 +35,5 @@ Things it is really bad at:
 We will go through this slowly together in a clear understandable way. Even though there are some drawbacks to LC-3, we will explain how to deal with them (in the advanced section).
 
 Don't be discouraged, I know this is a lot. We will go slow and build on our knowledge slowly!
+
+# [NEXT: SECTION 1.1 So what is Assembly Language?](/docs/1.1_What-is-Assembly.md)
