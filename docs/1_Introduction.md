@@ -1,6 +1,6 @@
 
 # Welcome and Overview
-# [NEXT: SECTION 1.1 So what is Assembly Language?](/docs/1.1_What-is-Assembly.md)
+#### [NEXT: SECTION 1.1 So what is Assembly Language?](/docs/1.1_What-is-Assembly.md)
 
 ## Welcome!
 Welcome to the World of Assembly programming and LC-3!
