@@ -11,7 +11,7 @@ Let's break down what each part means:
 
 - **OPCODE:** The operation code (opcode) specifies the instrution/operation to be performed (e.g., `AND`, `ADD`, `LD`).
 - **PARAMETERS:** These are the inputs for the operation, such as registers or values.
-- **COMMENTS:** Anything following a semicolon (;) is a comment, ignored by the assembler but useful for human readers.
+- **COMMENTS:** Anything following a semicolon (`;`) is a comment, ignored by the assembler but useful for human readers.
 
 ## Understanding Opcodes and Parameters
 - **Opcodes:** Opcodes are the heart of your instructions. Each opcode has a specific purpose, like adding numbers (ADD) or loading data from memory (LD).
